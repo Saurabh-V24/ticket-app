@@ -1,3 +1,4 @@
+// Page
 import TicketCard from "./(components)/TicketCard";
 
 const getTickets = async () => {
